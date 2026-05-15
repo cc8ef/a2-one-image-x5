@@ -21,3 +21,8 @@ img {
     border-color: blueviolet;
 }
 
+/* adds filter to make black and white */
+.bnw {
+    filter: saturate(0%);
+}
+
