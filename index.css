@@ -1,0 +1,13 @@
+img {
+    /* Tried to have allignment here, didn't work
+    display: flex; 
+    justify-content: center;
+    align-items: center; */
+    width: 100%
+}
+
+.alignment {
+    display: block;
+    justify-content: center;
+    align-items: center;
+}
