@@ -1,13 +1,23 @@
+/* Changes width of all images */
 img {
     /* Tried to have allignment here, didn't work
     display: flex; 
     justify-content: center;
     align-items: center; */
-    width: 100%
+    width: 75%
 }
 
+/* adjusts the alignment of the images */
 .alignment {
-    display: block;
+    display: flex;
     justify-content: center;
     align-items: center;
 }
+
+/* adds borders */
+.borders {
+    border-style: inset;
+    border-width: 10px;
+    border-color: blueviolet;
+}
+
