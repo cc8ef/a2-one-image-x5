@@ -63,5 +63,9 @@ img {
 }
 
 #scale {
-    transform: scale3d(1.7, 2.1, 0.1);
+    transform: scale3d(1.7, 1.1, 0.1);
+}
+
+#invert {
+    transform: invert;
 }
