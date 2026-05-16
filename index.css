@@ -66,6 +66,11 @@ img {
     transform: scale3d(1.7, 1.1, 0.1);
 }
 
+/*didnt work
 #invert {
     transform: invert;
+}*/
+
+#color {
+    filter:hue-rotate(45deg)
 }
