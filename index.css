@@ -29,7 +29,7 @@ img {
 
 /* adds filter to make black and white */
 .bnw {
-    filter: saturate(0%);
+    filter: saturate(0%) blur(5px);
 }
 
 /* Added nikki's name to overlay photo */
