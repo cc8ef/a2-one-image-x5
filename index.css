@@ -47,4 +47,11 @@ img {
 /* position: relative; */
 /* } */
 
-.
+.resize {
+    height: 1000px;
+    object-fit: fill;
+}
+
+#background {
+    background-image: linear-gradient(rgb(148, 201, 13), rgb(78, 43, 4));
+}
