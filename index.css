@@ -19,6 +19,12 @@ img {
     border-style: inset;
     border-width: 10px;
     border-color: blueviolet;
+   /* tried to move images, not suceeding
+    width: fit-content;
+    height: fit-content;
+    inline-size: fit-content;
+    block-size: fit-content;
+    padding: 0px -20px 0px 0px;*/
 }
 
 /* adds filter to make black and white */
@@ -36,7 +42,9 @@ img {
     color: #547d18;
 }
 
-/* /* container for text on image? did not work */
-.container {
-  position: relative;
-}
+/* container for text on image? did not work */
+/* .container {  */
+/* position: relative; */
+/* } */
+
+.
