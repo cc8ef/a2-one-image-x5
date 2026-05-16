@@ -26,3 +26,17 @@ img {
     filter: saturate(0%);
 }
 
+/* Added nikki's name to overlay photo */
+.textposition {
+    position: absolute;
+    bottom: 8px;
+    right: 50px;
+    font-size: 400px;
+    font-style: oblique;
+    color: #547d18;
+}
+
+/* /* container for text on image? did not work */
+.container {
+  position: relative;
+}
