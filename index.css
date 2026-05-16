@@ -47,6 +47,7 @@ img {
 /* position: relative; */
 /* } */
 
+/* making the image fit the box */
 .resize {
     height: 1000px;
     object-fit: fill;
@@ -59,4 +60,8 @@ img {
 #opacity {
     opacity: 50%;
     transform: skewX(-20deg);
+}
+
+#scale {
+    transform: scale3d(1.7, 2.1, 0.1);
 }
